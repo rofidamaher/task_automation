@@ -1,0 +1,10 @@
+org\example\stepDefs\D03_loginforjumiaStepDef.class
+org\example\pages\P01_register.class
+org\example\stepDefs\D04_searchStepDef.class
+org\example\testRunner\runners.class
+org\example\pages\P03_loginforjumia.class
+org\example\stepDefs\Hooks.class
+org\example\pages\P02_login.class
+org\example\stepDefs\D02_loginStepDef.class
+org\example\pages\P04_Search.class
+org\example\stepDefs\D01_registerStepDef.class

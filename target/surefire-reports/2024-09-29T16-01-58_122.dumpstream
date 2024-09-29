@@ -1,0 +1,4 @@
+# Created at 2024-09-29T16:01:58.488
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ROFIDA\informatique\task\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
