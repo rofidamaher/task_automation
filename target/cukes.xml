@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.311">
-<testcase classname="F02_Login | users could use login functionality to use their accounts" name="user could search for Monitor" time="24.879">
-<system-out><![CDATA[When user enter "Monitor" in search and press enter.........................passed
-And user find 5 products then write in excel file...........................passed
-]]></system-out>
-</testcase>
-</testsuite>
